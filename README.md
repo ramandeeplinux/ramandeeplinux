@@ -1,46 +1,67 @@
-# Hi 👋 I'm Ramandeep Singh
+# Hi 👋, I'm Ramandeep Singh
 
-## Senior Linux & OpenShift Platform Engineer
+## Senior Linux | OpenShift | Kubernetes Platform Engineer
 
-I am a Senior Linux Engineer with 18+ years of experience in Enterprise Linux, OpenShift, Kubernetes, VMware and DevOps.
-
-## Certifications
-
-- ✅ Certified Kubernetes Administrator (CKA)
-- ✅ Red Hat Certified Specialist in OpenShift Administration (EX280)
-- ✅ Red Hat Certified Engineer (RHCE)
-- ✅ Dell EMC Associate
-- ✅ CCNA
-- ✅ MCSE
-
-## Technical Skills
-
-- Red Hat Enterprise Linux
-- OpenShift 4.x
-- Kubernetes
-- Docker
-- Podman
-- Git
-- GitLab
-- ArgoCD
-- Helm
-- Jenkins
-- VMware ESXi
-- KubeVirt
-- TrueNAS CSI
-- Prometheus
-- Grafana
-- Bash Shell
-
-## Current Focus
-
-- OpenShift Administration
-- Kubernetes
-- Platform Engineering
-- GitOps
-- Infrastructure Automation
-- Enterprise Monitoring
+Experienced Platform Engineer specializing in Red Hat OpenShift, Kubernetes, Linux, Virtualization and Enterprise Infrastructure.
 
 ---
 
-⭐ Welcome to my GitHub Portfolio.
+## Certifications
+
+- RHCE
+- Red Hat Certified Specialist in OpenShift Administration (EX280)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Security Specialist (CKS)
+- Microsoft Azure AI Fundamentals
+
+---
+
+## Skills
+
+- Red Hat Enterprise Linux
+- OpenShift Container Platform
+- Kubernetes
+- OpenShift Virtualization (KubeVirt)
+- VMware ESXi
+- Docker
+- Podman
+- GitOps (Argo CD)
+- TrueNAS CSI (NFS & iSCSI)
+- Prometheus
+- Grafana
+- Service Mesh (Istio)
+- KServe
+- Red Hat AI
+- Dynatrace
+- Shell Scripting
+
+---
+
+## Featured Project
+
+### OpenShift Production Lab
+
+Enterprise production-style OpenShift lab built completely from scratch.
+
+Features include:
+
+- OpenShift 4.21 Installation
+- VMware vSphere
+- Worker Node Expansion
+- OpenShift Virtualization
+- TrueNAS CSI
+- GitOps
+- OpenShift Monitoring
+- OpenShift AI
+- KServe
+- RHEL AI
+- Service Mesh
+- Dynatrace
+
+Repository:
+
+https://github.com/ramandeeplinux/openshift-production-lab
+
+---
+
+Always learning new Enterprise Platform Engineering technologies.
