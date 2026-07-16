@@ -8,7 +8,7 @@ Experienced Platform Engineer specializing in Red Hat OpenShift, Kubernetes, Lin
 
 ## Certifications
 
-- RHCE
+- Red Hat Certified Engineer
 - Red Hat Certified Specialist in OpenShift Administration (EX280)
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Security Specialist (CKS)
